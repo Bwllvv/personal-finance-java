@@ -1,0 +1,5 @@
+/target/
+/.finance-data/
+/.idea/
+*.iml
+.DS_Store
